@@ -1,0 +1,89 @@
+{
+  "company": {
+    "name": "Pruzan Law Offices",
+    "tagline": "Established in 1929",
+    "description": "The Pruzan Law Firm was established in 1929 by Abraham Pruzan, Esq. We specialize in NYS landlord and tenant law, actively representing our clients in Brooklyn, Manhattan, Queens and Staten Island. We pride our reputation on protecting our client's very best interests.",
+    "phone": "718-560-3181",
+    "email": "lawyers@pruzanlaw.com",
+    "address": "111 Court Street, Brooklyn, NY 11201",
+    "hours": null
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769036594/auto-site-builder/pruzanlaw.com/image_0.jpg",
+    "primaryColor": "#1e3a5f",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "The Pruzan Law Firm was established in 1929 by Abraham Pruzan, Esq.",
+    "subheadline": "We specialize in NYS landlord and tenant law: actively representing our clients in Brooklyn, Manhattan, Queens and Staten Island. We pride our reputation on protecting our client's very best interests.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9?w=1920&h=1080&fit=crop&q=80"
+  },
+  "sections": {
+    "about": {
+      "headline": "About Us",
+      "content": "The Pruzan Law Firm was established in 1929 by Abraham Pruzan, Esq. We specialize in NYS landlord and tenant law, actively representing our clients in Brooklyn, Manhattan, Queens and Staten Island. We pride our reputation on protecting our client's very best interests. Our new Brooklyn Heights address is just a five minute walk from the court houses. Our phones, fax and emails are monitored seven days a week.",
+      "image": "https://plus.unsplash.com/premium_photo-1743020414634-7f9e0550ba5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGF3JTIwb2ZmaWNlJTIwaW50ZXJpb3IlMjBwcm9mZXNzaW9uYWx8ZW58MHwwfHx8MTc2ODk0MTU4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "values": [
+        {
+          "title": "Hands On Attention",
+          "description": "We provide hands on attention and expedited resolutions for landlords"
+        },
+        {
+          "title": "Immediate Solutions",
+          "description": "We provide immediate solutions and optimum settlements for tenants"
+        },
+        {
+          "title": "Dedicated Commitments",
+          "description": "We listen to our client's needs and concerns. We get the results you expect with dedicated commitments"
+        }
+      ]
+    },
+    "services": {
+      "headline": "Practice Areas"
+    },
+    "team": {
+      "headline": "Our Attorneys"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      }
+    ],
+    "ctaButton": {
+      "label": "Send a Message",
+      "href": "/about"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Pruzan Law Offices. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "pruzanlaw.com - pruzan law offices",
+    "description": "pruzan law offices"
+  }
+}
